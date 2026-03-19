@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@caseman72/tuya-api": "file:../tuya-api",
+    "@caseman72/tuya-api": "github:caseman72/tuya-api",
     "@modelcontextprotocol/sdk": "^1.0.0",
     "zod": "^3.25.0"
   }
