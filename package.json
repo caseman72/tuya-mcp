@@ -1,0 +1,25 @@
+{
+  "name": "tuya-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Tuya-based mini-split climate control",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:http": "node src/index.js --http"
+  },
+  "keywords": [
+    "tuya",
+    "mcp",
+    "smart-home",
+    "home-assistant",
+    "climate",
+    "mini-split"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@caseman72/tuya-api": "file:../tuya-api",
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.25.0"
+  }
+}

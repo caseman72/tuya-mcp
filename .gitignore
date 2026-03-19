@@ -1,0 +1,11 @@
+node_modules/
+.env.local
+.env
+.DS_Store
+**/.rcs/
+config.json
+config.local.json
+.tuya-devices.json
+*.log
+**/.claude/
+custom_components/tuya_mcp/devices.yaml

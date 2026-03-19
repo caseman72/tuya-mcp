@@ -1,0 +1,11 @@
+{
+  "server": {
+    "transport": "stdio",
+    "httpPort": 8002,
+    "httpHost": "127.0.0.1"
+  },
+  "monitoring": {
+    "enabled": false,
+    "logFile": "./tuya-mcp-requests.log"
+  }
+}

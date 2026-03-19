@@ -1,0 +1,11 @@
+{
+  "domain": "tuya_mcp",
+  "name": "Tuya MCP",
+  "version": "1.0.0",
+  "documentation": "https://github.com/caseman72/tuya-mcp",
+  "dependencies": ["mcp"],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true
+}

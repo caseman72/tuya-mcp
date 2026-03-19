@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Tuya MCP",
+        "description": "Configure connection to the tuya-mcp server.",
+        "data": {
+          "mcp_host": "MCP Server Host",
+          "mcp_port": "MCP Server Port"
+        }
+      }
+    }
+  }
+}

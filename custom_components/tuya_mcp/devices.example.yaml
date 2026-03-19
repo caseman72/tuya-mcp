@@ -1,0 +1,5 @@
+climate:
+  - id: "DEVICE_ID_1"
+    name: "Living Room"
+  - id: "DEVICE_ID_2"
+    name: "Bedroom"
