@@ -1,5 +1,5 @@
 {
-  "name": "tuya-mcp",
+  "name": "@caseman72/tuya-mcp",
   "version": "1.0.0",
   "description": "MCP server for Tuya-based mini-split climate control",
   "type": "module",
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@caseman72/tuya-api": "github:caseman72/tuya-api",
+    "@caseman72/tuya-api": "^1.1.0",
     "@modelcontextprotocol/sdk": "^1.0.0",
     "zod": "^3.25.0"
   }
